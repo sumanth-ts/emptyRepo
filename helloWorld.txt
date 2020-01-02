@@ -1,0 +1,11 @@
+Using System;
+Namespace sample
+{
+class Program
+{
+public static void main()
+{
+Console.WriteLine("Hello World!");
+}
+}
+}
